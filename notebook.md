@@ -2,6 +2,7 @@ Table of Contents
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
+ [Home](index.md)
  
 ## Markdown Style Guide for Coding Notebooks
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
