@@ -1,4 +1,7 @@
 # About Me
+
+<img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=700&q=80" alt="Professional female lawyer portrait" width="320" style="display: block; margin: 0 auto 1rem; border-radius: 12px;">
+
 Hello! I am Alexis.
 I love flag football and center a lot of my projects revolve around improving efficiency in the sport. I love to read, play any sport, and spend time with family. My goals for this page are to create a portfolio where I can easily access all of my past projects. Enjoy!
 
