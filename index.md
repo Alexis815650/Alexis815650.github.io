@@ -10,9 +10,13 @@ An interactive web application I developed to help flag football players learn f
 
 [Launch Flag Football Playbook →](Football-plays/)
 
-### Project 2: Description
+### Project 2: Java Array Program
 
-Add your second project description here.
+A Java program developed in VS Code to practice arrays, indexing, and displaying values using standard output. The program stores five integers in an array and prints specific elements using their indexes.
+
+**Skills:** Java, arrays, indexing, and console output.
+
+[View the Source Code](java-projects/FirstArray.java)
 
 ## About Me
 
