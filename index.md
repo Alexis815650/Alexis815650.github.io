@@ -4,11 +4,11 @@ Hello! My name is Alexis.
 
 ## Projects
 
-### Project 1: Flag Football Playbook
+### [Project 1: Flag Football Playbook](Football-plays/)
 
-An interactive web application I developed to help flag football players learn formations, routes, plays, and game situations. The application includes quizzes for practicing football concepts and a drawing tool for designing plays.
+An interactive web application I developed to help flag football players learn formations, routes, plays, and game situations. It includes quizzes and a tool for drawing custom plays.
 
-[**Launch the Flag Football Playbook**](Football-plays/)
+[Launch Flag Football Playbook →](Football-plays/)
 
 ### Project 2: Description
 
